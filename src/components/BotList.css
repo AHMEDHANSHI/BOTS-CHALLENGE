@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-colo:beige;
+}
+.card{
+    box-sizing:border-box;
+    border: solid 1px black;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #d22727;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.content{
+    
+   box-sizing:border-box;
+   border: solid 1px black;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    
+
+
+  
+    background-color: #d22727;
+    display: flex;
+    flex-direction: row;
+    
+}
